@@ -6,3 +6,12 @@ Empresa Publica
 MISION
 VISION
 OBJETIVOS
+
+
+| N° | Integrantes |
+|-----------|-----------|
+| 1  | Joel Ccalli |
+| 2 | Mayner Anahua |
+| 3 | Yastin Zeballos |
+| 4 | Erick Salinas |
+| 5 | Aron Paco |
