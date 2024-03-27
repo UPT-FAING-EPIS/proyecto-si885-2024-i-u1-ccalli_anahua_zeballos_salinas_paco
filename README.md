@@ -1,19 +1,19 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/4qIAkGT-)
 
 
-Empresa 
+EMPRESA: 
 
-Publica Hospital Hipólito Unanue 
+Publica Hospital Hipólito Unanue TACNA 
 
-MISION 
+MISION:
 
 Somos un Hospital Docente Asistencial de Nivel II-2 que brindamos atención especializada e integral en salud y docencia en servicio de la población de la Región Tacna y los referidos por otras instituciones con respeto, profesionalismo, honestidad, calidad y responsabilidad.
 
-VISION
+VISION:
 
 Ser un Hospital líder de referencia Nivel III-1 debidamente acreditado nacional e internacionalmente, brindando atención especializada integral de salud, docencia e investigación al màs alto nivel con personal calificado y equipamiento con tecnología de punta a la población regional, macro regional sur e internacional con calidad, calide, respeto y eficiencia.
 
-OBJETIVOS
+OBJETIVOS:
 
 Los objetivos estratégicos que persigue el Hospital "Hipólito Unánue" de Tacna, están consignados en el R.O.F. vigente y están orientados a responder los siguientes objetivos:
 
