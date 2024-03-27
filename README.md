@@ -1,3 +1,5 @@
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FTacnaNoticiasOficial%2Fposts%2Fdia27-covid19-tacnanoticias-50-de-personal-del-hospital-hip%25C3%25B3lito-unanue-solicita%2F2672576736333383%2F%3Flocale%3Des_LA&psig=AOvVaw1iQBEo7TXqT80csxO4MdkL&ust=1711591572662000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjKwtCtk4UDFQAAAAAdAAAAABAE
+
 EMPRESA: 
 
 Hospital Regional Hipólito Unanue TACNA 
