@@ -3,7 +3,7 @@
 
 EMPRESA: 
 
-Publica Hospital Hipólito Unanue TACNA 
+Hospital Regional Hipólito Unanue TACNA 
 
 MISION:
 
