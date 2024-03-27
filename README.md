@@ -1,10 +1,3 @@
-![Texto alternativo]([URL_de_la_imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtj22EwgQ0LFfrXegENsG_xIOCMG87bhVGg4ONVERtw&s))
-
-https://scontent.flim20-1.fna.fbcdn.net/v/t1.6435-9/92567930_2672576666333390_6694501924399480832_n.jpg?stp=dst-jpg_s600x600&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3FXPTlwYnecAX-sHRLx&_nc_ht=scontent.flim20-1.fna&oh=00_AfAQGVxv_gcKgIuW5QmRYn--A_Wg4V9EE3zJDlN3rJS-Zg&oe=662B0549
-
-
-![Texto alternativo]([URL_de_la_imagen](https://scontent.flim20-1.fna.fbcdn.net/v/t1.6435-9/92567930_2672576666333390_6694501924399480832_n.jpg?stp=dst-jpg_s600x600&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3FXPTlwYnecAX-sHRLx&_nc_ht=scontent.flim20-1.fna&oh=00_AfAQGVxv_gcKgIuW5QmRYn--A_Wg4V9EE3zJDlN3rJS-Zg&oe=662B0549))
-=============
 EMPRESA: 
 
 Hospital Regional Hipólito Unanue TACNA 
